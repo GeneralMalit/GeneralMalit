@@ -1,23 +1,23 @@
-﻿<h1 align="center">Hey, I'm GeneralMalit</h1>
-<p align="center"><strong>TypeScript-first engineer shipping fast, reliable tools for real businesses.</strong></p>
+﻿<h1 align="center">GeneralMalit</h1>
+<p align="center"><strong>Ships TypeScript products, ops tools, and security gates—fast, opinionated, production-minded.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/GeneralMalit?tab=followers"><img src="https://img.shields.io/github/followers/GeneralMalit?label=Followers&style=flat-square&color=1DB954" /></a>
   <a href="https://github.com/GeneralMalit"><img src="https://img.shields.io/badge/Time%20zone-UTC%2B08%3A00-0d9488?style=flat-square" /></a>
-  <a href="mailto:generalmalit@gmail.com"><img src="https://img.shields.io/badge/Email-generalmalit%40gmail.com-2563EB?style=flat-square" /></a>
+  <a href="mailto:generalmalit07@gmail.com"><img src="https://img.shields.io/badge/Email-generalmalit07%40gmail.com-2563EB?style=flat-square" /></a>
 </p>
 
 ### Quick bits
-- Building pragmatic TypeScript stacks: React + tRPC, Next.js, Node.
-- UI polish and clean DX are my happy place.
-- Small daily commits beat weekend marathons.
-- Open to collabs on automation, dashboards, and agentic tools.
+- Build hard-edged TypeScript stacks (Next.js/React + Node/tRPC) with auth, roles, telemetry baked in.
+- Ship daily with tests, coverage, and semantic-release; no feature leaves main half-baked.
+- Run real ops: from real-time chat and CRM tooling to AI email pipelines and security gates.
+- Manila, UTC+08 — if you need it shipped instead of theorized, talk to me.
 
 ### Currently shipping
-- DigitalTambayan – 30s micro-apps for local teams – [repo](https://github.com/GeneralMalit/DigitalTambayan)
-- treeCRM – lightweight CRM spine with TypeScript-first APIs – [repo](https://github.com/GeneralMalit/treeCRM)
-- OpenGate – auth + permissions layer you can drop into any TS project – [repo](https://github.com/GeneralMalit/OpenGate)
-- MailPilot – email ops toolkit (templates, routing, webhooks) – [repo](https://github.com/GeneralMalit/MailPilot)
+- DigitalTambayan — Supabase/Next real-time “tambayan” with role-aware rooms, AI companion, and release flow ([repo](https://github.com/GeneralMalit/DigitalTambayan))
+- treeCRM — multi-role CRM/support stack (Next.js + Express + Supabase) with ticketing and workflow automation ([repo](https://github.com/GeneralMalit/treeCRM))
+- OpenGate — TypeScript gate that enforces identity, API keys, rate limits, and audit before your routes ([repo](https://github.com/GeneralMalit/OpenGate))
+- MailPilot — AI email ops slice: triage → draft → approval → send with audit/retry on Spring Boot + React ([repo](https://github.com/GeneralMalit/MailPilot))
+- timestamp-copy — Tauri tray app + MV3 extension that copies the exact time identically across platforms ([repo](https://github.com/GeneralMalit/timestamp-copy))
 
 ### Toolbox
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 ### How to reach me
-- Email: generalmalit@gmail.com
+- Email: generalmalit07@gmail.com
 - Open a discussion or issue on any pinned repo
 
-> Code loud, ship often, be useful.
+> "Waste no more time arguing what a good man should be. Be one." — Marcus Aurelius
