@@ -33,10 +33,10 @@
 ### GitHub stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeneralMalit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=GeneralMalit&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=GeneralMalit&theme=tokyonight&hide_border=true&card_width=420" />
 </p>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralMalit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralMalit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420&cache_seconds=43200" />
 </p>
 
 ### How to reach me
