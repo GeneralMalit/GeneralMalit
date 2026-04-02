@@ -1,5 +1,5 @@
 ﻿<h1 align="center">GeneralMalit</h1>
-<p align="center"><strong>Ships TypeScript products, ops tools, and security gates—fast, opinionated, production-minded.</strong></p>
+<p align="center"><strong>Ships TypeScript products, ops tools, and security gates. Fast, opinionated, production-minded.</strong></p>
 
 <p align="center">
   <a href="https://github.com/GeneralMalit"><img src="https://img.shields.io/badge/Time%20zone-UTC%2B08%3A00-0d9488?style=flat-square" /></a>
@@ -32,12 +32,9 @@
 
 ### GitHub stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeneralMalit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=GeneralMalit&theme=tokyonight&hide_border=true&card_width=420" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=GeneralMalit&theme=tokyonight&hide_border=true&card_width=500" />
 </p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralMalit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420&cache_seconds=43200" />
-</p>
+
 
 ### How to reach me
 - Email: generalmalit07@gmail.com
