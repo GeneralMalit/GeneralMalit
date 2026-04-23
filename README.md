@@ -15,7 +15,7 @@
 ### Currently shipping
 - decision-engine — local-first Tauri desktop app for weighted decision analysis with hard constraints, ranked tradeoffs, sensitivity checks, and SQLite-backed decision snapshots ([repo](https://github.com/GeneralMalit/decision-engine))
 - myorep-timer — high-precision React/TypeScript workout timer built for Myo-rep training with worker-based timing, voice cues, and PiP-friendly session flow ([repo](https://github.com/GeneralMalit/myorep-timer))
-- RedditPulse — private n8n-driven Reddit digest product with a Next.js operator UI, visible workflow branching, model routing, and Supabase-backed digest persistence
+- RedditPulse — n8n-driven Reddit digest product with a Next.js operator UI, visible workflow branching, model routing, and Supabase-backed digest persistence ([repo](https://github.com/GeneralMalit/n8n-reddit-pulse))
 - DigitalTambayan — Supabase/Next real-time “tambayan” with role-aware rooms, AI companion, and release flow ([repo](https://github.com/GeneralMalit/DigitalTambayan))
 - treeCRM — multi-role CRM/support stack (Next.js + Express + Supabase) with ticketing and workflow automation ([repo](https://github.com/GeneralMalit/treeCRM))
 - OpenGate — TypeScript gate that enforces identity, API keys, rate limits, and audit before your routes ([repo](https://github.com/GeneralMalit/OpenGate))
