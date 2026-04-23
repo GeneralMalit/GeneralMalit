@@ -16,12 +16,24 @@
 - decision-engine — local-first Tauri desktop app for weighted decision analysis with hard constraints, ranked tradeoffs, sensitivity checks, and SQLite-backed decision snapshots ([repo](https://github.com/GeneralMalit/decision-engine))
 - myorep-timer — high-precision React/TypeScript workout timer built for Myo-rep training with worker-based timing, voice cues, and PiP-friendly session flow ([repo](https://github.com/GeneralMalit/myorep-timer))
 - nodepad — spatial AI research workspace where notes become a canvas, connections are inferred, and synthesis emerges across the board instead of inside a chat box ([repo](https://github.com/GeneralMalit/nodepad))
+- RedditPulse — private n8n-driven Reddit digest product with a Next.js operator UI, visible workflow branching, model routing, and Supabase-backed digest persistence
 - DigitalTambayan — Supabase/Next real-time “tambayan” with role-aware rooms, AI companion, and release flow ([repo](https://github.com/GeneralMalit/DigitalTambayan))
 - treeCRM — multi-role CRM/support stack (Next.js + Express + Supabase) with ticketing and workflow automation ([repo](https://github.com/GeneralMalit/treeCRM))
 - OpenGate — TypeScript gate that enforces identity, API keys, rate limits, and audit before your routes ([repo](https://github.com/GeneralMalit/OpenGate))
 - MailPilot — AI email ops slice: triage → draft → approval → send with audit/retry on Spring Boot + React ([repo](https://github.com/GeneralMalit/MailPilot))
 - personal-apps — collection repo for small daily-use utilities and nested app projects that share the same practical, ship-fast boundary ([repo](https://github.com/GeneralMalit/personal-apps))
 - timestamp-copy — Tauri tray app + MV3 extension that copies the exact time identically across platforms ([repo](https://github.com/GeneralMalit/timestamp-copy))
+
+### Recent private build
+RedditPulse is the current n8n-heavy portfolio piece: a local-admin Reddit digest system where the app saves runtime config, triggers the workflow, and reads back persisted digests and sources instead of pretending the automation layer does not exist.
+
+Dashboard:
+
+![RedditPulse dashboard](assets/redditpulse-dashboard.png)
+
+Settings:
+
+![RedditPulse settings](assets/redditpulse-settings.png)
 
 ### Toolbox
 <p align="center">
