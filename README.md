@@ -1,45 +1,69 @@
 <h1 align="center">GeneralMalit</h1>
-<p align="center"><strong>Builds operator tools, workflow systems, security gates, and local-first apps.</strong></p>
-<p align="center">TypeScript-heavy full-stack engineer shipping practical products with real policies, state, and release discipline.</p>
+<p align="center"><strong>I build full-stack products, internal tools, automation flows, and security-heavy backend systems.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/GeneralMalit"><img src="https://img.shields.io/badge/Location-Manila%20(UTC%2B08)-0f766e?style=flat-square" alt="Location badge" /></a>
+  <a href="https://github.com/GeneralMalit"><img src="https://img.shields.io/badge/Manila-UTC%2B08-0f766e?style=flat-square" alt="Location badge" /></a>
   <a href="mailto:generalmalit07@gmail.com"><img src="https://img.shields.io/badge/Email-generalmalit07%40gmail.com-2563eb?style=flat-square" alt="Email badge" /></a>
 </p>
 
-## What shows up across my work
+I mostly work in TypeScript, React, Next.js, Node.js, Supabase, and Tauri.
+I also work in Java and Spring Boot when the backend fits better there.
 
-- Build products that have actual operating logic behind them: roles, approvals, gates, retries, audit trails, and admin surfaces.
-- Favor systems that are narrow but complete over broad demos that stop at the happy path.
-- Use AI to move faster, but still bias toward explicit architecture, tests, docs, and recoverable behavior.
-- Most comfortable in TypeScript stacks, but also ship Java/Spring Boot when the backend wants a more structured service layer.
+What I like building:
 
-## Best projects
+- products with real workflows, not just pages
+- systems with auth, roles, approval flows, retries, and audit trails
+- operator tools and admin surfaces
+- local-first apps and small utilities that are actually useful
+- automation built around `n8n`, APIs, and persisted outputs
 
-These are the strongest signals in the profile right now.
+## Projects
 
-| Project | What it proves |
-| --- | --- |
-| [OpenGate](https://github.com/GeneralMalit/OpenGate) | Best infrastructure signal. A reusable TypeScript security gate for existing APIs with Fastify/Express adapters, JWT/JWKS support, API keys, rate limits, audit logging, a CLI, starter templates, and a lightweight control plane. |
-| [decision-engine](https://github.com/GeneralMalit/decision-engine) | Best local-first product signal. A Tauri desktop app for weighted decision analysis with hard constraints, sensitivity views, and local SQLite persistence. Clear product scope, strong architecture, and polished boundaries. |
-| [treeCRM](https://github.com/GeneralMalit/treeCRM) | Best full-stack business app signal. A multi-role CRM/support platform with Next.js, Express, Supabase, chat, ticketing, workflow rules, admin controls, tests, and release automation. |
-| [MailPilot](https://github.com/GeneralMalit/MailPilot) | Best workflow/ops signal outside TypeScript-only work. A Spring Boot + React AI email operations slice with triage, drafting, approvals, execution, retry handling, and audit history. |
-| [DigitalTambayan](https://github.com/GeneralMalit/DigitalTambayan) | Best realtime app signal. A role-aware community chat app with Supabase Realtime, private nicknames, moderation controls, media upload flows, and an AI companion. |
-| [RedditPulse](https://github.com/GeneralMalit/n8n-reddit-pulse) | Best n8n automation signal. A local-admin Reddit digest product with a Next.js control surface, visible n8n workflow orchestration, model routing, and Supabase-backed persistence for runs, digests, and sources. |
-| [myorep-timer](https://github.com/GeneralMalit/myorep-timer) | Best performance-focused utility signal. A workout timer that takes timing accuracy seriously with worker-based scheduling, PiP survival tactics, and a more deliberate runtime model than a typical side app. |
+### [OpenGate](https://github.com/GeneralMalit/OpenGate)
 
-## Smaller projects worth noticing
+A TypeScript security gate for existing HTTP APIs.
 
-- [timestamp-copy](https://github.com/GeneralMalit/timestamp-copy): a small utility, but a good example of shipping polish across both a Tauri tray app and an MV3 extension.
+It handles identity, JWT/JWKS verification, API keys, rate limits, audit logging, adapters for Fastify and Express, a CLI, and starter templates.
 
-## How I like to build
+### [decision-engine](https://github.com/GeneralMalit/decision-engine)
 
-- Start with a sharp product slice and carry it through the hard parts: auth, roles, edge cases, tooling, and release flow.
-- Keep architecture legible with diagrams, docs, and explicit boundaries.
-- Treat operational details as product features: retries, observability, versioning, and admin workflows matter.
-- Prefer products that feel useful on day one over idea-heavy repos that never quite become tools.
+A local-first Tauri desktop app for structured decision analysis.
 
-## Current toolbox
+It supports weighted criteria, hard constraints, sensitivity checks, and local SQLite persistence.
+
+### [treeCRM](https://github.com/GeneralMalit/treeCRM)
+
+A CRM and support platform with multiple user roles, ticketing, workflow rules, chat, admin controls, and a full Next.js + Express + Supabase stack behind it.
+
+### [MailPilot](https://github.com/GeneralMalit/MailPilot)
+
+An AI email operations system built with Spring Boot and React.
+
+It covers triage, drafting, approvals, execution, retry handling, and audit history.
+
+### [DigitalTambayan](https://github.com/GeneralMalit/DigitalTambayan)
+
+A realtime community chat app inspired by the Filipino tambayan concept.
+
+It includes room roles, moderation controls, realtime sync, private nickname behavior, media flows, and an AI companion.
+
+### [RedditPulse](https://github.com/GeneralMalit/n8n-reddit-pulse)
+
+A Reddit digest product built around `n8n`.
+
+It has a Next.js operator UI, visible workflow orchestration, model routing, and Supabase-backed persistence for runs, digests, and sources.
+
+### [myorep-timer](https://github.com/GeneralMalit/myorep-timer)
+
+A high-precision workout timer for Myo-rep training.
+
+It uses worker-based timing, PiP survival tactics, and a UI built around the actual training flow.
+
+### [timestamp-copy](https://github.com/GeneralMalit/timestamp-copy)
+
+A small utility that copies the exact current time in the same format across a Tauri tray app and a Chromium extension.
+
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -52,7 +76,6 @@ These are the strongest signals in the profile right now.
   <img src="https://img.shields.io/badge/Spring_Boot-6db33f?logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
-## Reach me
+## Contact
 
 - Email: generalmalit07@gmail.com
-- Open an issue or discussion on any repo that looks relevant
